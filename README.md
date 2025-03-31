@@ -38,7 +38,11 @@ java AsteroidHunter
 
 ## Screenshots
 
-*(You can add screenshots here)*
+<img width="566" alt="Screenshot 2025-03-31 at 17 57 12" src="https://github.com/user-attachments/assets/52fb4459-2362-4028-9546-f101ed131ef3" />
+
+<img width="563" alt="Screenshot 2025-03-31 at 17 57 58" src="https://github.com/user-attachments/assets/3b5619c7-5fc5-43f0-bffe-b7e1cbe7ced6" />
+
+
 
 ## License
 
