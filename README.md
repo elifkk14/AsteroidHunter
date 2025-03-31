@@ -50,6 +50,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author
 
-Developed by [Your Name] - feel free to fork, contribute or give feedback!
+Developed by Elif Konak - feel free to fork, contribute or give feedback!
 
 ---
